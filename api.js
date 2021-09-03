@@ -2816,9 +2816,7 @@ var $jscomp = $jscomp || {};
                 u.innerHTML = " ";
                 this.capturebtn.style.cursor = "pointer";
                 this.capturebtn.setAttribute("id", "hv-camera-capture-button move");
-                $(this.capturebtn).click(function(){
-                   EngageOneVideo.interactions.continueVideo("continue");
-                });
+                
                 k.addEventListener("click",
                     function() {
                         a.unfreeze();
