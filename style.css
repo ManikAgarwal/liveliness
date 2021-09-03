@@ -30,37 +30,4 @@
     align-content: center;
   
   }
-  #hv-cameraholder>div:nth-child(2) {
-     width: 21em !important;
-      height: 21em !important;
-      border-radius: 50% !important;
-      margin-top: 6px;
-  }
-  #hv-cameraholder>div:nth-child(2)>video{
-      width: 21em !important;
-      height: 21em !important;
-      border-radius: 50% !important;
-      margin-top:-5px;
-  }
-  
-  
-  .hv-bottom-instructions {
-      font-size: 1.2em;
-      margin-top: 0.5em;
-      color: black;
-      margin-top: -15.7em !important;
-  }
-  .hv-instructions {
-      font-size: 0px !important;
-      margin-bottom: 0.5em;
-      min-height: 3em;
-      color: black;
-  }
-  .hv-title {
-      font-weight: 600;
-      margin-bottom: 0.1em;
-      color: black;
-      margin-right: 1.5em;
-      display: none;
-  }
   
